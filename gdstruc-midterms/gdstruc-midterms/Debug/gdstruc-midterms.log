@@ -1,0 +1,3 @@
+﻿  Source.cpp
+D:\csb\gdstruc\gdstruc-midterms\gdstruc-midterms\gdstruc-midterms\Source.cpp(10): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  gdstruc-midterms.vcxproj -> D:\csb\gdstruc\gdstruc-midterms\gdstruc-midterms\Debug\gdstruc-midterms.exe
